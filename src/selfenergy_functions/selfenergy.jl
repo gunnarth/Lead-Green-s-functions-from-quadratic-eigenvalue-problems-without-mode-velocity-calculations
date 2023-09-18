@@ -3,7 +3,7 @@ using IterativeSolvers
 
 
 #=======================================================================================#
-"""Function that calculated the forward error for a solution of a Green's function
+"""Function that calculated the backward error for a solution of a Green's function
 matrix GV for a lead.
 Input: GV Green's function matrix of a lead
        H Hamilton matrix of a slice in lead

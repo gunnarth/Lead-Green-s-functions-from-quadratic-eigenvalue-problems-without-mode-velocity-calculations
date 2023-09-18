@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Thorgilsson"
+  given-names: "Gunnar"
+  orcid: "https://orcid.org/0000-0001-9698-5323"
+- family-names: "Erlingsson"
+  given-names: "Sigurdur I."
+  orcid: "https://orcid.org/0000-0001-5701-4137"
+title: "Lead Green's functions from quadratic eigenvalue problems without mode velocity calculations"
+version: 0.1 #uppfæra/henda?
+doi: 10.5281/zenodo.1234 #uppfæra
+date-released: 2017-12-18 #uppfæra
+url: "https://github.com/gunnarth/Lead-Green-s-functions-from-quadratic-eigenvalue-problems-without-mode-velocity-calculations/blob/master/src/selfenergy_functions/selfenergy.jl"
